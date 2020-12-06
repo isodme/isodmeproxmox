@@ -447,8 +447,8 @@ function isodmeproxmox_TestConnection(array $params)
 function isodmeproxmox_AdminCustomButtonArray()
 {
     return array(
-        "Button 1 Display Value" => "buttonOneFunction",
-        "Button 2 Display Value" => "buttonTwoFunction",
+//        "Button 1 Display Value" => "buttonOneFunction",
+//        "Button 2 Display Value" => "buttonTwoFunction",
     );
 }
 
